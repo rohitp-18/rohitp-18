@@ -1,0 +1,6 @@
+- 👋 Hi, I’m **@rohitp-18 (Rohit Patil)**
+- 👀 I’m interested in **Full Stack Web Development**
+- 🌱 I’m currently learning **AI with Web Development**
+- 💞️ I’m looking to collaborate on **MERN Stack Web Project**
+- 📫 How to reach me **Email :** rohitpatil18@hotmail.com
+- **WhatsApp Mobile no.** +91 9356971002
