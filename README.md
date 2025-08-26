@@ -1,4 +1,4 @@
-# 🌟 Rohit Patil - Portfolio Website
+# 🌟 Rohit Patil
 
 > **MERN Full Stack Web Developer** | **TypeScript Enthusiast** | **React.js & Next.js Specialist**
 
