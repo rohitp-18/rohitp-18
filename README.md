@@ -1,35 +1,33 @@
 # 🌟 Rohit Patil
 
-> **MERN Full Stack Web Developer** | **TypeScript Enthusiast** | **React.js & Next.js Specialist**
+> **MERN Full Stack Web Developer** | **GenAI Enthusiast** | **TypeScript Specialist**
 
-A modern, responsive portfolio website built with Next.js 15 and React 19, showcasing my journey as a passionate Full Stack Developer. This project demonstrates my expertise in modern web technologies, clean code practices, and creating engaging user experiences.
+A modern, responsive portfolio website built with Next.js 15 and React 19, showcasing my journey as a passionate Full Stack Developer. This project demonstrates my expertise in modern web technologies, AI integration, and bridging the gap between development and operations.
 
 <div align="center">
 
 ![Portfolio Preview](https://img.shields.io/badge/Portfolio-Live-brightgreen?style=for-the-badge&logo=vercel)
-![GitHub last commit](https://img.shields.io/github/last-commit/rohitp-18/my-portfolio?style=for-the-badge)
+![GitHub Real-Time Commit](https://img.shields.io/github/last-commit/rohitp-18/my-portfolio?label=Real-Time%20Commit&style=for-the-badge)
 ![GitHub repo size](https://img.shields.io/github/repo-size/rohitp-18/my-portfolio?style=for-the-badge)
 
 </div>
 
 ## 👋 About Me
 
-Hi there! I'm **Rohit Patil** (@rohitp-18), a dedicated MERN stack developer from **Pune, Maharashtra, India** with strong expertise in modern web development:
+Hi there! I'm **Rohit Patil** (@rohitp-18), a dedicated **MERN Stack & GenAI Enthusiast** from **Pune, Maharashtra, India**. With over 2 years of hands-on experience, I specialize in building and deploying scalable web applications.
 
-### 🚀 **Core Skills**
+### 🚀 **Core Expertise**
 
-- **Frontend**: React.js, Next.js, TypeScript, Tailwind CSS
-- **Backend**: Node.js, Express.js, RESTful APIs
-- **Database**: MongoDB, Mongoose
-- **UI/UX**: Responsive Design, Framer Motion, Component Libraries
-- **Tools**: Git, Vercel, GitHub Actions, VS Code
+- **Frontend**: React.js, Next.js 15, TypeScript, Tailwind CSS, Redux Toolkit
+- **Backend**: Node.js, Express.js, FastAPI, Socket.io
+- **Database**: MongoDB (Mongoose), Pinecone (Vector DB)
+- **AI/ML**: Generative AI, LangChain, RAG Pipelines, Gemini API
+- **DevOps**: Docker, AWS (EC2), Nginx, Git
 
-### 🌱 **Currently**
+### 💼 **Experience**
 
-- 📚 Learning **AI integration with Web Development**
-- 🔍 Exploring modern web technologies and best practices
-- 💞️ Looking to collaborate on innovative **MERN Stack projects**
-- 🎯 Building scalable, user-centric applications
+- **Frontend Developer Intern** @ [Opineworks LLP](https://opineworks.com/) _(Aug 2025 - Oct 2025)_
+- **Full Stack Developer Intern** @ Annaraj Foods Pvt Ltd _(Sep 2024 - Nov 2024)_
 
 ### 📊 **GitHub Statistics**
 
@@ -43,57 +41,53 @@ Hi there! I'm **Rohit Patil** (@rohitp-18), a dedicated MERN stack developer fro
 
 ## 🚀 Live Demo
 
-🌐 **[View Live Portfolio](https://rohit-patil.vercel.app)**
+🌐 **[View Live Portfolio](https://www.rohitp.tech)**
 
 ## 🏆 Featured Projects
 
-Based on my GitHub profile, here are some notable projects:
+### 🌐 [Social Networking Website](https://www.social.rohitp.tech/)
 
-### 🛒 [E-commerce Platform](https://github.com/rohitp-18/e-commerce)
+- **Stack**: Next.js, Express, MongoDB
+- **Features**: Professional networking with user profiles, job portal, and company pages.
+- **Highlights**: Resume integration, networking groups.
 
-- **Tech Stack**: JavaScript, MERN Stack
-- **Features**: Full-featured online store with payment integration
-- **Highlights**: Product management, user authentication, order processing
+### 🛒 [E-commerce Platform](https://www.store.rohitp.tech/)
 
-### 🌐 [Social Media Platform](https://github.com/rohitp-18/social-media)
+- **Stack**: React, Node.js, MongoDB, SCSS
+- **Features**: Multi-role dashboards (Admin/Sellers), inventory management.
+- **Highlights**: Production-ready deployment, secure authentication.
 
-- **Tech Stack**: TypeScript, MERN Stack
-- **Features**: User profiles, company pages, groups, job postings
-- **Highlights**: Real-time messaging, professional networking features
+### 🤖 [Multi-Document RAG Platform](https://www.docs.rohitp.tech/)
 
-### 💰 [Expense Tracker](https://github.com/rohitp-18/expense_tracker)
+- **Stack**: Next.js, Python, LangChain, Pinecone, Gemini API
+- **Features**: Semantic search across multiple documents, real-time Q&A.
+- **Highlights**: Intelligent document processing with persistent chat history.
 
-- **Tech Stack**: JavaScript, MERN Stack
-- **Features**: Personal finance management with analytics
-- **Highlights**: Transaction tracking, budget management, data visualization
+### 💰 [Expense Management](https://github.com/rohitp-18/expense_tracker)
 
-### 💬 [Chat Application](https://github.com/rohitp-18/chat)
+- **Stack**: MERN Stack, MUI
+- **Features**: Interactive transaction visualization and analytics.
 
-- **Tech Stack**: JavaScript, Real-time technologies
-- **Features**: Real-time messaging platform
-- **Highlights**: Instant messaging, user presence, chat rooms
+### 💬 [Chat Application](https://github.com/rohitp-18/web-chat)
 
-## 🎯 About This Portfolio
+- **Stack**: MERN Stack, Socket.io
+- **Features**: Instant messaging with real-time updates.
 
-This portfolio website represents my development journey and technical expertise. Built with cutting-edge technologies, it showcases:
+## 🎓 Education
 
-### 🌟 **What Makes This Portfolio Special**
+- **B.Sc in Computer Science** (2023 - 2026) @ Punyashlok Ahilyabai Holkar University, Solapur.
+- **Higher Secondary Education** (2021 - 2023) @ SGRGS Mahavidyalay Paranda (Science Stream).
 
-- **Modern Tech Stack**: Next.js 15, React 19, TypeScript 5
-- **Performance Optimized**: Lightning-fast loading with SSR
-- **Accessibility First**: WCAG guidelines compliance
-- **Mobile Responsive**: Seamless cross-device experience
-- **SEO Optimized**: Meta tags and structured data
+## 🎯 Portfolio Features
 
-### 🎨 **Key Features**
+Built with cutting-edge technologies, this site showcases:
 
-- **Interactive Animations**: Framer Motion powered transitions
-- **3D Components**: Custom 3D card effects
-- **Dynamic Content**: Real-time typing effects
-- **Contact Integration**: Functional contact form with MongoDB
-- **Project Showcase**: Live project demonstrations
+- **Next.js 15 & React 19**: Leveraging the latest stable releases.
+- **Performance Optimized**: High Lighthouse scores via SSR.
+- **Modern UI**: Interactive components using Framer Motion and 3D card effects.
+- **Live Deployment**: Hosted on AWS EC2 using Docker and Nginx.
 
-### 💻 **Tech Stack Overview**
+## 💻 Tech Stack Overview
 
 <div align="center">
 
@@ -103,47 +97,59 @@ This portfolio website represents my development journey and technical expertise
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </div>
 
-## 🔥 Recent Activity & Contributions
-
-- 🚀 **93 contributions** in the last year
-- 📁 **13 public repositories** showcasing diverse projects
-- ⭐ **Active development** on portfolio and full-stack applications
-- 💻 **Recent focus**: Modern web technologies and AI integration
-
-### 📈 **Repository Highlights**
-
-| Repository          | Description                | Tech Stack          | Status      |
-| ------------------- | -------------------------- | ------------------- | ----------- |
-| **my-portfolio**    | Modern portfolio website   | TypeScript, Next.js | ⭐ Active   |
-| **social-media**    | Full-stack social platform | TypeScript, MERN    | ⭐ Featured |
-| **e-commerce**      | E-commerce application     | JavaScript, MERN    | ⭐ Complete |
-| **expense_tracker** | Finance management app     | JavaScript, MERN    | ⭐ Complete |
-
 ## 🎯 My Development Philosophy
 
-As a MERN stack developer, I believe in:
-
-- 📝 **Clean Code**: Writing readable, maintainable, and scalable solutions
-- 🎨 **User-Centric Design**: Creating intuitive and engaging interfaces
-- ⚡ **Performance First**: Optimizing for speed and efficiency
-- 🔄 **Continuous Learning**: Staying updated with latest technologies
-- 🤝 **Collaboration**: Effective teamwork and knowledge sharing
+- 📝 **Clean Code**: Readable, maintainable, and scalable solutions.
+- 🎨 **User-Centric**: Intuitive and engaging interfaces.
+- ⚡ **Performance**: Optimizing for speed and efficiency.
+- 🌐 **DevOps Mindset**: Bridging development with robust deployment cycles.
 
 ## 📞 Contact & Connect
 
-**Rohit Patil** - MERN Full Stack Developer
+**Rohit Patil** - MERN Full Stack & GenAI Developer
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=vercel)](https://rohit-patil.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=vercel)](https://www.rohitp.tech)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:rohitpatil18@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohit-patil18/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/rohitp-18)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send/?phone=919356971002)
+
+</div>
+
+### 🤝 **Let's Collaborate!**
+
+I'm always interested in:
+
+- 💼 **Full-time opportunities** in Full Stack Development
+- 🚀 **Freelance projects** involving MERN stack
+- 👥 **Open source contributions** and collaborations
+- 🎓 **Mentoring** junior developers
+- 💡 **Innovative projects** combining AI with web development
+
+---
+
+<div align="center">
+
+## 🌟 Show Your Support
+
+If this portfolio inspired you or helped in any way, please consider:
+
+⭐ **Giving it a star** | 🔀 **Forking** to create your own version | 📢 **Sharing** with fellow developers
+
+---
+
+**"The best way to predict the future is to create it."** - Peter Drucker
+
+Built with ❤️ and lots of ☕ by [Rohit Patil](https://github.com/rohitp-18)
+
+🚀 **Ready to build something amazing together?** [Let's connect!](mailto:rohitpatil18@hotmail.com)
 
 </div>
 
