@@ -45,19 +45,19 @@ Hi there! I'm **Rohit Patil** (@rohitp-18), a dedicated **MERN Stack & GenAI Ent
 
 ## 🏆 Featured Projects
 
-### 🌐 [Social Networking Website](https://www.social.rohitp.tech/)
+### 🌐 [Social Networking Website](https://social.rohitp.tech/)
 
 - **Stack**: Next.js, Express, MongoDB
 - **Features**: Professional networking with user profiles, job portal, and company pages.
 - **Highlights**: Resume integration, networking groups.
 
-### 🛒 [E-commerce Platform](https://www.store.rohitp.tech/)
+### 🛒 [E-commerce Platform](https://store.rohitp.tech/)
 
 - **Stack**: React, Node.js, MongoDB, SCSS
 - **Features**: Multi-role dashboards (Admin/Sellers), inventory management.
 - **Highlights**: Production-ready deployment, secure authentication.
 
-### 🤖 [Multi-Document RAG Platform](https://www.docs.rohitp.tech/)
+### 🤖 [Multi-Document RAG Platform](https://docs.rohitp.tech/)
 
 - **Stack**: Next.js, Python, LangChain, Pinecone, Gemini API
 - **Features**: Semantic search across multiple documents, real-time Q&A.
