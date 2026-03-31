@@ -24,11 +24,6 @@ Hi there! I'm **Rohit Patil** (@rohitp-18), a dedicated **MERN Stack & GenAI Ent
 - **AI/ML**: Generative AI, LangChain, RAG Pipelines, Gemini API
 - **DevOps**: Docker, AWS (EC2), Nginx, Git
 
-### 💼 **Experience**
-
-- **Frontend Developer Intern** @ [Opineworks LLP](https://opineworks.com/) _(Aug 2025 - Oct 2025)_
-- **Full Stack Developer Intern** @ Annaraj Foods Pvt Ltd _(Sep 2024 - Nov 2024)_
-
 ### 📊 **GitHub Statistics**
 
 <div align="center">
