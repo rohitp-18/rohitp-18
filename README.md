@@ -1,6 +1,6 @@
 # 🌟 Rohit Patil
 
-> **MERN Full Stack Web Developer** | **GenAI Enthusiast** | **TypeScript Specialist**
+> **MERN Full Stack Web Developer** | **GenAI Enthusiast** | **TypeScript Developer**
 
 A modern, responsive portfolio website built with Next.js 15 and React 19, showcasing my journey as a passionate Full Stack Developer. This project demonstrates my expertise in modern web technologies, AI integration, and bridging the gap between development and operations.
 
@@ -115,36 +115,6 @@ Built with cutting-edge technologies, this site showcases:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohit-patil18/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/rohitp-18)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send/?phone=919356971002)
-
-</div>
-
-### 🤝 **Let's Collaborate!**
-
-I'm always interested in:
-
-- 💼 **Full-time opportunities** in Full Stack Development
-- 🚀 **Freelance projects** involving MERN stack
-- 👥 **Open source contributions** and collaborations
-- 🎓 **Mentoring** junior developers
-- 💡 **Innovative projects** combining AI with web development
-
----
-
-<div align="center">
-
-## 🌟 Show Your Support
-
-If this portfolio inspired you or helped in any way, please consider:
-
-⭐ **Giving it a star** | 🔀 **Forking** to create your own version | 📢 **Sharing** with fellow developers
-
----
-
-**"The best way to predict the future is to create it."** - Peter Drucker
-
-Built with ❤️ and lots of ☕ by [Rohit Patil](https://github.com/rohitp-18)
-
-🚀 **Ready to build something amazing together?** [Let's connect!](mailto:rohitpatil18@hotmail.com)
 
 </div>
 
