@@ -70,7 +70,7 @@ Hi there! I'm **Rohit Patil** (@rohitp-18), a dedicated **MERN Stack & GenAI Ent
 
 ## 🎓 Education
 
-- **B.Sc in Computer Science** (2023 - 2026) @ Punyashlok Ahilyabai Holkar University, Solapur.
+- **B.Sc in Computer Science** (2023 - 2026) @ Punyashlok Ahilyadevi Holkar University, Solapur.
 - **Higher Secondary Education** (2021 - 2023) @ SGRGS Mahavidyalay Paranda (Science Stream).
 
 ## 🎯 Portfolio Features
